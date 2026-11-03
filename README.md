@@ -1,16 +1,20 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Seid Muhdin</h1>
+<h3 align="center">A Passionate Computer Science Student & Full-Stack Web Developer</h3>
 
-<!--
-**seya-man-tech/seya-man-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=seid-man-tech&color=blueviolet&style=flat-square" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/seid-man-tech?label=Followers&style=flat-square&color=blue" alt="Followers" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 About Me
+```javascript
+const seid = {
+  role: "Computer Science Student",
+  university: "Wollo University",
+  focus: "Full-Stack Web Development & Modern Apps",
+  stack: ["HTML", "CSS", "JavaScript", "React", "Node.js", "Bootstrap"],
+  currentLearning: "Advanced React & Frontend/Backend Integration",
+  goal: "Building scalable, high-performance, and user-friendly web applications."
+};
